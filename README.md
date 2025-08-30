@@ -40,7 +40,10 @@
 ### DevOps
 <div align="center">  
   <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" style="margin: 10px;" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" style="margin: 10px;" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" style="margin: 10px;" /> 
+  <img src="https://camo.githubusercontent.com/caebdfcd25d2ada18008fcd3eda4cdab45248d8573b5ca42beb009946e3a7126/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626173685f7363726970742d2532333132313031312e7376673f7374796c653d706c6173746963266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465" alt="C++" height="25" style="margin: 10px;" /> 
+  
+
 
 ---
 
